@@ -17,3 +17,7 @@
 16. It must be in that file
 17. Count that word
 18. What's next?
+19. Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+20. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+21. Replace all characters A and c from input to Z and e respectively.
+22. Create a script that removes all letters c and C from input.
