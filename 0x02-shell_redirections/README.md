@@ -3,4 +3,6 @@
 2. Write a script that displays a confused smiley "(Ôo)'.
 3. Display the content of the /etc/passwd file.
 4. Display the content of /etc/passwd and /etc/hosts
-
+5. Last lines of a file
+6. I'd prefer the first ones actually
+7. Line #2
