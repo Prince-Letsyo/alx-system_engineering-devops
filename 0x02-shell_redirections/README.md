@@ -6,3 +6,5 @@
 5. Last lines of a file
 6. I'd prefer the first ones actually
 7. Line #2
+8. Write a script that displays the third line of the file iacta.
+9. It is a good file that cuts iron without making a noise
